@@ -21,4 +21,5 @@ It is a hands on experience configuring nodejs on a public AWS ec2 using Ansible
    - `ansible-playbook main.yml -i inventory --private-key [you-key.pem]`
 
 6. verify you work by hitting the public URL on port 3000 on your browser
+
    ![hitting the public URL on port 3000](./images/hellowFromNodejs.png)
